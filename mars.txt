@@ -1,4 +1,3 @@
 hello mars
 mars is planet
-mars is a red planet
 
